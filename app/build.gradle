@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.example.viewpager2_example_1"
+        applicationId "com.example.viewpager2_example_2"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
@@ -35,4 +35,7 @@ dependencies {
 
     //ViewPager2
     implementation 'androidx.viewpager2:viewpager2:1.0.0'
+    //Material Design
+    implementation 'com.google.android.material:material:1.2.0-alpha05'
+
 }

@@ -1,13 +1,13 @@
-package com.example.viewpager2_example_1.adapters;
+package com.example.viewpager2_example_2.adapters;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.example.viewpager2_example_1.fragments.ConfirmedOrdersFragment;
-import com.example.viewpager2_example_1.fragments.DeliveredOrdersFragment;
-import com.example.viewpager2_example_1.fragments.PendingOrdersFragment;
+import com.example.viewpager2_example_2.fragments.ConfirmedOrdersFragment;
+import com.example.viewpager2_example_2.fragments.DeliveredOrdersFragment;
+import com.example.viewpager2_example_2.fragments.PendingOrdersFragment;
 
 public class OrderPagerAdapter extends FragmentStateAdapter {
 

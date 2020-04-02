@@ -1,4 +1,4 @@
-package com.example.viewpager2_example_1.fragments;
+package com.example.viewpager2_example_2.fragments;
 
 import android.os.Bundle;
 
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.viewpager2_example_1.R;
+import com.example.viewpager2_example_2.R;
 
 
 /**
