@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.viewpager2_example_2.MainActivity">
+    tools:context="com.example.viewpager2_example_4.MainActivity">
 
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tabLayout___activity_main___top"

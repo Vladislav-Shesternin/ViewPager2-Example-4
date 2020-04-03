@@ -1,4 +1,4 @@
-package com.example.viewpager2_example_2.fragments;
+package com.example.viewpager2_example_4.fragments;
 
 import android.os.Bundle;
 
@@ -8,15 +8,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.viewpager2_example_2.R;
+import com.example.viewpager2_example_4.R;
 
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class PendingOrdersFragment extends Fragment {
+public class DeliveredOrdersFragment extends Fragment {
 
-    public PendingOrdersFragment() {
+    public DeliveredOrdersFragment() {
         // Required empty public constructor
     }
 
@@ -25,6 +25,6 @@ public class PendingOrdersFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_pending_orders, container, false);
+        return inflater.inflate(R.layout.fragment_delivered_orders, container, false);
     }
 }

@@ -1,4 +1,4 @@
-package com.example.viewpager2_example_2;
+package com.example.viewpager2_example_4;
 
 import org.junit.Test;
 
